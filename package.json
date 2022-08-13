@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "pm2-runtime start app.config.js --env production"
+    "start": "nodemon main.js"
   },
   "author": "Rahul Kumar",
   "license": "ISC",
